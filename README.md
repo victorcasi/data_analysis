@@ -2,7 +2,7 @@
 
 Welcome to the directory for a personal project I developed to showcase my skills with Power BI, focusing on creating an interactive dashboard for retail sales analysis. This project was a great opportunity to deepen my knowledge of DAX, SQL, ETL, and data processing for creating reports and interactive visualizations.
 
-![DASHBOARD LINK]([https://link-da-imagem.com/imagem.png](https://app.powerbi.com/view?r=eyJrIjoiYjYzNjk4NjgtODc0MC00ZTFhLWIxYmEtMzY0MjZkZDNjZTdlIiwidCI6Ijc3YjEyMTAwLTllMGYtNDJkZS1hOWRjLWE1MzA3OGZmZWFlZiJ9))
+![DASHBOARD LINK](https://app.powerbi.com/view?r=eyJrIjoiYjYzNjk4NjgtODc0MC00ZTFhLWIxYmEtMzY0MjZkZDNjZTdlIiwidCI6Ijc3YjEyMTAwLTllMGYtNDJkZS1hOWRjLWE1MzA3OGZmZWFlZiJ9)
 
 ## 📜 Project Overview
 
